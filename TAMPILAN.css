@@ -1,0 +1,27 @@
+.navigasi {
+    background: linear-gradient(rgb(211, 111, 111),rgb(182, 62, 62),rgb(139, 36, 36));
+    font-size: 70px;
+    padding: 20px;
+    display: flex;
+
+}
+
+nav{
+    display: flex;
+    gap: 5%;
+    margin-left: 2%;
+    
+}
+
+
+
+.isi h1{
+   text-align: center;
+   font-size:50px;
+   margin-bottom: 0;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+
+
+    
